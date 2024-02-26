@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "65dc588c0ca047fed5f5039b"
+  },
+  "orderedBy": "65dc11623afabc75d8d4eb0d",
+  "stripePaymentIntentID": "pi_3Oo0LoDpx5gR3GfP2g4LwyJq",
+  "total": 31000000,
+  "items": [
+    {
+      "product": "65dc392a98ad8324780caf4b",
+      "price": 31000000,
+      "quantity": 1,
+      "id": "65dc588ccdbb1a75f85db1d6"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-26T09:23:24.352Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T09:23:24.352Z"
+  },
+  "__v": 0
+}]

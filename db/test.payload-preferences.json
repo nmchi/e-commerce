@@ -1,0 +1,602 @@
+[{
+  "_id": {
+    "$oid": "65dc12203afabc75d8d4ec8b"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "products-list",
+  "value": {
+    "columns": [
+      {
+        "accessor": "_select",
+        "active": true
+      },
+      {
+        "accessor": "title",
+        "active": true
+      },
+      {
+        "accessor": "stripeProductID",
+        "active": true
+      },
+      {
+        "accessor": "_status",
+        "active": true
+      },
+      {
+        "accessor": "id",
+        "active": false
+      },
+      {
+        "accessor": "publishedOn",
+        "active": false
+      },
+      {
+        "accessor": "layout",
+        "active": false
+      },
+      {
+        "accessor": "priceJSON",
+        "active": false
+      },
+      {
+        "accessor": "enablePaywall",
+        "active": false
+      },
+      {
+        "accessor": "paywall",
+        "active": false
+      },
+      {
+        "accessor": "categories",
+        "active": false
+      },
+      {
+        "accessor": "relatedProducts",
+        "active": false
+      },
+      {
+        "accessor": "slug",
+        "active": false
+      },
+      {
+        "accessor": "skipSync",
+        "active": false
+      },
+      {
+        "accessor": "meta",
+        "active": false
+      },
+      {
+        "accessor": "updatedAt",
+        "active": false
+      },
+      {
+        "accessor": "createdAt",
+        "active": false
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-02-26T04:22:56.828Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T09:45:43.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc12293afabc75d8d4ecd2"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "pages-list",
+  "value": {
+    "columns": [
+      {
+        "accessor": "_select",
+        "active": true
+      },
+      {
+        "accessor": "title",
+        "active": true
+      },
+      {
+        "accessor": "slug",
+        "active": true
+      },
+      {
+        "accessor": "updatedAt",
+        "active": true
+      },
+      {
+        "accessor": "id",
+        "active": false
+      },
+      {
+        "accessor": "publishedOn",
+        "active": false
+      },
+      {
+        "accessor": "hero",
+        "active": false
+      },
+      {
+        "accessor": "layout",
+        "active": false
+      },
+      {
+        "accessor": "meta",
+        "active": false
+      },
+      {
+        "accessor": "createdAt",
+        "active": false
+      },
+      {
+        "accessor": "_status",
+        "active": false
+      }
+    ],
+    "limit": "10"
+  },
+  "createdAt": {
+    "$date": "2024-02-26T04:23:05.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T09:45:41.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc12363afabc75d8d4ed1b"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "categories-list",
+  "value": {
+    "columns": [
+      {
+        "accessor": "_select",
+        "active": true
+      },
+      {
+        "accessor": "title",
+        "active": true
+      },
+      {
+        "accessor": "id",
+        "active": true
+      },
+      {
+        "accessor": "media",
+        "active": true
+      },
+      {
+        "accessor": "parent",
+        "active": true
+      },
+      {
+        "accessor": "breadcrumbs",
+        "active": false
+      },
+      {
+        "accessor": "updatedAt",
+        "active": false
+      },
+      {
+        "accessor": "createdAt",
+        "active": false
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-02-26T04:23:18.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T09:45:51.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc12513afabc75d8d4ed7f"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "collapsed-Collections-groups",
+  "value": [],
+  "createdAt": {
+    "$date": "2024-02-26T04:23:46.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T04:23:48.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc12523afabc75d8d4ed83"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "nav",
+  "value": {
+    "open": true
+  },
+  "createdAt": {
+    "$date": "2024-02-26T04:23:46.733Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T04:23:47.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc12563afabc75d8d4ed8b"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "collapsed-Globals-groups",
+  "value": [],
+  "createdAt": {
+    "$date": "2024-02-26T04:23:50.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T04:23:50.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc148e3afabc75d8d4ee6b"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "media-list",
+  "value": {
+    "sort": "",
+    "columns": [
+      {
+        "accessor": "_select",
+        "active": true
+      },
+      {
+        "accessor": "filename",
+        "active": true
+      },
+      {
+        "accessor": "id",
+        "active": true
+      },
+      {
+        "accessor": "alt",
+        "active": true
+      },
+      {
+        "accessor": "caption",
+        "active": true
+      },
+      {
+        "accessor": "updatedAt",
+        "active": false
+      },
+      {
+        "accessor": "createdAt",
+        "active": false
+      },
+      {
+        "accessor": "url",
+        "active": false
+      },
+      {
+        "accessor": "mimeType",
+        "active": false
+      },
+      {
+        "accessor": "filesize",
+        "active": false
+      },
+      {
+        "accessor": "width",
+        "active": false
+      },
+      {
+        "accessor": "height",
+        "active": false
+      }
+    ],
+    "limit": "10"
+  },
+  "createdAt": {
+    "$date": "2024-02-26T04:33:18.659Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T09:45:49.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc19793afabc75d8d4f058"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "global-footer",
+  "value": {
+    "fields": {
+      "navItems": {
+        "collapsed": [
+          "65dc18c5a58db70c79d43f43",
+          "65dc18ffa58db70c79d43f44",
+          "65dc1902a58db70c79d43f46"
+        ]
+      }
+    }
+  },
+  "createdAt": {
+    "$date": "2024-02-26T04:54:17.661Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T04:54:31.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc1c003afabc75d8d4f0ca"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "collection-pages-65dc11663afabc75d8d4eba3",
+  "value": {
+    "fields": {
+      "hero.links": {
+        "collapsed": [
+          "65dc116626809c0784770038"
+        ]
+      }
+    }
+  },
+  "createdAt": {
+    "$date": "2024-02-26T05:05:04.888Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T05:05:04.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc34f698ad8324780cadf2"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "redirects-list",
+  "value": {
+    "limit": "10",
+    "columns": [
+      {
+        "accessor": "_select",
+        "active": true
+      },
+      {
+        "accessor": "from",
+        "active": true
+      },
+      {
+        "accessor": "createdAt",
+        "active": true
+      },
+      {
+        "accessor": "id",
+        "active": false
+      },
+      {
+        "accessor": "to",
+        "active": false
+      },
+      {
+        "accessor": "updatedAt",
+        "active": false
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-02-26T06:51:34.194Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T06:51:34.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc34f798ad8324780cadfe"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "users-list",
+  "value": {
+    "limit": "10",
+    "columns": [
+      {
+        "accessor": "_select",
+        "active": true
+      },
+      {
+        "accessor": "name",
+        "active": true
+      },
+      {
+        "accessor": "email",
+        "active": true
+      },
+      {
+        "accessor": "id",
+        "active": false
+      },
+      {
+        "accessor": "roles",
+        "active": false
+      },
+      {
+        "accessor": "purchases",
+        "active": false
+      },
+      {
+        "accessor": "stripeCustomerID",
+        "active": false
+      },
+      {
+        "accessor": "cart",
+        "active": false
+      },
+      {
+        "accessor": "skipSync",
+        "active": false
+      },
+      {
+        "accessor": "updatedAt",
+        "active": false
+      },
+      {
+        "accessor": "createdAt",
+        "active": false
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-02-26T06:51:35.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T06:51:35.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc34f898ad8324780cae26"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "orders-list",
+  "value": {
+    "columns": [
+      {
+        "accessor": "_select",
+        "active": true
+      },
+      {
+        "accessor": "createdAt",
+        "active": true
+      },
+      {
+        "accessor": "orderedBy",
+        "active": true
+      },
+      {
+        "accessor": "id",
+        "active": false
+      },
+      {
+        "accessor": "stripePaymentIntentID",
+        "active": false
+      },
+      {
+        "accessor": "total",
+        "active": false
+      },
+      {
+        "accessor": "items",
+        "active": false
+      },
+      {
+        "accessor": "updatedAt",
+        "active": false
+      }
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-02-26T06:51:36.733Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T09:45:46.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc3f0c98ad8324780cb813"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "collection-products-65dc3dd498ad8324780cb36b",
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      }
+    }
+  },
+  "createdAt": {
+    "$date": "2024-02-26T07:34:36.630Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T07:36:28.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc45090ca047fed5f50073"
+  },
+  "user": {
+    "relationTo": "users",
+    "value": "65dc11623afabc75d8d4eb0d"
+  },
+  "key": "collection-products-65dc392a98ad8324780caf4b",
+  "value": {
+    "fields": {
+      "tabs-1": {
+        "tabIndex": 1
+      }
+    }
+  },
+  "createdAt": {
+    "$date": "2024-02-26T08:00:09.676Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T08:00:09.676Z"
+  },
+  "__v": 0
+}]

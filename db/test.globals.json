@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "65dc11663afabc75d8d4eb2a"
+  },
+  "navItems": [
+    {
+      "link": {
+        "type": "reference",
+        "reference": {
+          "value": "65dc11663afabc75d8d4eba3",
+          "relationTo": "pages"
+        },
+        "label": "Home"
+      },
+      "id": "65dc13dba58db70c79d43f42"
+    },
+    {
+      "link": {
+        "type": "reference",
+        "reference": {
+          "value": "65dc11663afabc75d8d4eb95",
+          "relationTo": "pages"
+        },
+        "label": "Shop"
+      },
+      "id": "65dc116726809c0784770048"
+    }
+  ],
+  "globalType": "header",
+  "createdAt": {
+    "$date": "2024-02-26T04:19:50.118Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T04:33:13.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc11663afabc75d8d4eb2c"
+  },
+  "globalType": "settings",
+  "createdAt": {
+    "$date": "2024-02-26T04:19:50.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T04:19:51.029Z"
+  },
+  "__v": 0,
+  "productsPage": "65dc11663afabc75d8d4eb95"
+},
+{
+  "_id": {
+    "$oid": "65dc11663afabc75d8d4eb2e"
+  },
+  "navItems": [
+    {
+      "link": {
+        "type": "custom",
+        "url": "https://facebook.com",
+        "label": "facebook",
+        "icon": "65dc18ef3afabc75d8d4efd8"
+      },
+      "id": "65dc18c5a58db70c79d43f43"
+    },
+    {
+      "link": {
+        "type": "custom",
+        "url": "https://instagram.com",
+        "label": "instagram",
+        "icon": "65dc19343afabc75d8d4efe6"
+      },
+      "id": "65dc18ffa58db70c79d43f44"
+    },
+    {
+      "link": {
+        "type": "custom",
+        "url": "https://twitter.com",
+        "label": "twitter",
+        "icon": "65dc19573afabc75d8d4eff0"
+      },
+      "id": "65dc1902a58db70c79d43f46"
+    }
+  ],
+  "globalType": "footer",
+  "createdAt": {
+    "$date": "2024-02-26T04:19:50.122Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T04:53:56.935Z"
+  },
+  "__v": 0,
+  "copyright": "@2024 Tech Heaven All rights reserved."
+}]

@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "65dc346198ad8324780cac5d"
+  },
+  "title": "Laptops",
+  "media": "65dc345d98ad8324780cac53",
+  "breadcrumbs": [
+    {
+      "doc": "65dc346198ad8324780cac5d",
+      "label": "Laptops",
+      "id": "65dc3461e2fb551de87cc5d9"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-26T06:49:05.285Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T06:49:05.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc348198ad8324780cac7e"
+  },
+  "title": "Watches",
+  "media": "65dc347e98ad8324780cac77",
+  "breadcrumbs": [
+    {
+      "doc": "65dc348198ad8324780cac7e",
+      "label": "Watches",
+      "id": "65dc3481e2fb551de87cc5db"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-26T06:49:37.283Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T06:49:37.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc349c98ad8324780cac9f"
+  },
+  "title": "Phones",
+  "media": "65dc349c98ad8324780cac98",
+  "breadcrumbs": [
+    {
+      "doc": "65dc349c98ad8324780cac9f",
+      "label": "Phones",
+      "id": "65dc349de2fb551de87cc5dd"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-26T06:50:04.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T06:50:05.000Z"
+  },
+  "__v": 0
+}]
